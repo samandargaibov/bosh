@@ -1,0 +1,14 @@
+C:\Users\samandarrg\Desktop\ders1\ders1\bin\Debug\netcoreapp3.1\ders1.exe
+C:\Users\samandarrg\Desktop\ders1\ders1\bin\Debug\netcoreapp3.1\ders1.deps.json
+C:\Users\samandarrg\Desktop\ders1\ders1\bin\Debug\netcoreapp3.1\ders1.runtimeconfig.json
+C:\Users\samandarrg\Desktop\ders1\ders1\bin\Debug\netcoreapp3.1\ders1.runtimeconfig.dev.json
+C:\Users\samandarrg\Desktop\ders1\ders1\bin\Debug\netcoreapp3.1\ders1.dll
+C:\Users\samandarrg\Desktop\ders1\ders1\bin\Debug\netcoreapp3.1\ders1.pdb
+C:\Users\samandarrg\Desktop\ders1\ders1\obj\Debug\netcoreapp3.1\ders1.csproj.AssemblyReference.cache
+C:\Users\samandarrg\Desktop\ders1\ders1\obj\Debug\netcoreapp3.1\ders1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samandarrg\Desktop\ders1\ders1\obj\Debug\netcoreapp3.1\ders1.AssemblyInfoInputs.cache
+C:\Users\samandarrg\Desktop\ders1\ders1\obj\Debug\netcoreapp3.1\ders1.AssemblyInfo.cs
+C:\Users\samandarrg\Desktop\ders1\ders1\obj\Debug\netcoreapp3.1\ders1.csproj.CoreCompileInputs.cache
+C:\Users\samandarrg\Desktop\ders1\ders1\obj\Debug\netcoreapp3.1\ders1.dll
+C:\Users\samandarrg\Desktop\ders1\ders1\obj\Debug\netcoreapp3.1\ders1.pdb
+C:\Users\samandarrg\Desktop\ders1\ders1\obj\Debug\netcoreapp3.1\ders1.genruntimeconfig.cache
