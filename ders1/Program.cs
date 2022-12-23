@@ -49,21 +49,82 @@ namespace ders1
             //      Console.WriteLine("Yanlish reqem");
             //  }
 
-            int i = 0;
-            while (i<10)
-            {
-                if (i == 3)
-                {
-                    i++;
-                    continue;
-                   
-                }
-                
-                Console.WriteLine(i++);
-                
-            }
+            //int i = 0;
+            //while (i<10)
+            //{
+            //    if (i == 3 || i==7)
+            //    {
+            //        i++;
+            //        continue;
 
-           
+            //    }
+
+            //    Console.WriteLine(i++);
+
+            //}
+
+            //int a = int.Parse(Console.ReadLine());
+            //int b;
+
+
+            //b = a %10;
+            //a = a / 10;
+
+            //Console.WriteLine($"{a}+{b}");  
+
+            //Console.Write("Ededi daxil edin: ");
+            //int a = int.Parse(Console.ReadLine());
+            //int sum = 0;
+
+            //for (int i = 1; i <= a; i++)
+            //{
+
+            //    if (i%2==0 && i % 3 == 0)
+            //    {
+            //        sum+=i;
+
+
+            //    }
+
+            //}
+            //Console.WriteLine(sum);
+
+            Console.Write("1-ci ededi daxil edin: ");
+            int a = int.Parse(Console.ReadLine());
+            Console.Write("2-ci ededi daxil edin: ");
+            int b = int.Parse(Console.ReadLine());
+            int count=0;
+            int sum = 0;
+
+
+            //for (int i = a; i <= b; i++)
+            //{
+            //        count++;
+            //        sum += i;
+
+            //}
+            //int i = a;
+
+            //while (i <= b)
+            //{
+            //    count++;
+            //    sum += i;
+            //    i++;
+            //}
+
+            int i = a;
+
+            do
+            {
+                count++;
+                sum += i;
+                i++;
+
+            } while (i<=b);
+
+            Console.WriteLine(count);
+            Console.WriteLine(sum);
         }
+        
     }
 }
